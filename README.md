@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorDia0.VictorDia0&left_color=darkblue&right_color=darkgrey&left_text=Visitantes"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorDia0.VictorDia0&left_color=darkblue&right_color=darkgrey&left_text=Visitantes&height=150"  />
 </div>
 
 ###
@@ -76,7 +76,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorDia0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="220" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VictorDia0&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorDia0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Linguagens" height="220" alt="languages graph"  />
 </div>
 
