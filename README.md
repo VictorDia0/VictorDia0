@@ -8,6 +8,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorDia0.VictorDia0&"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="left">👩‍💻  Sobre mim</h2>
@@ -61,5 +67,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorDia0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
